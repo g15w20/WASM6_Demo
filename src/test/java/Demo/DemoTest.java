@@ -7,6 +7,8 @@ public class DemoTest {
 	public void demo()
 	{
 		System.out.println("hi this is Wasm6 demo ");
+		
+		System.out.println("hi");
 	}
 
 }
