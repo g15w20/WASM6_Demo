@@ -8,6 +8,11 @@ public class sampleTest {
 	public void sample()
 	{
 		System.out.println("sample program is ready");
+	
+		
+		
+		
+		
 	}
 
 }
