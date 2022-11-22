@@ -10,18 +10,7 @@ public class Sample1Test {
 	{
 		System.out.println("New Statement added here");
 		System.out.println("This is user 2");
-		System.out.println("kbfgh");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }
