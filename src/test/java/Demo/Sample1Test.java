@@ -9,15 +9,8 @@ public class Sample1Test {
 	public void stest()
 	{
 		System.out.println("New Statement added here");
-	
 		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }
